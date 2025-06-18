@@ -64,8 +64,4 @@ Por seguridad, Excel puede bloquear archivos descargados desde Internet. Si no p
 
 ---
 
-## 👤 Autor
-
-**Aldair Jesus Yauri Altamirano**  
-Repositorio GitHub: [@Aldair2612](https://github.com/Aldair2612)
 
