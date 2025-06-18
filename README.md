@@ -5,7 +5,7 @@ El sistema fue implementado en un negocio de comida rápida para **registrar, or
 
 ## 📁 Archivos principales
 
-- `Control_Entregas.xlsm`: Archivo Excel con macros habilitadas para el sistema completo.
+- `Motorizado.xlsm`: Archivo Excel con macros habilitadas para el sistema completo.
 - `README.md`: Documentación general del proyecto.
 
 ## 📅 Campos del sistema
