@@ -27,23 +27,17 @@ Por seguridad, Excel puede bloquear archivos descargados desde Internet. Si no p
 5. Abre el archivo con Excel.
 6. Presiona **"Habilitar contenido"** o **"Activar macros"** si se solicita.
 
-
 ✅ ¡Listo! Ya puedes usar todas las funciones automatizadas del sistema.
 
-
 ## 🧩 Tecnologías utilizadas
-
 - Microsoft Excel
 - Macros (VBA)
 - Tablas dinámicas
 - Dashboard con gráficos
 
----
-
 ## 🔖 Temas del proyecto
-
 `Excel` · `Macros` · `Dashboard` · `Logística` · `Motorizado` · `Comida rápida`
 
----
+
 
 
