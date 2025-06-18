@@ -27,6 +27,8 @@ Por seguridad, Excel puede bloquear archivos descargados desde Internet. Si no p
 5. Abre el archivo con Excel.
 6. Presiona **"Habilitar contenido"** o **"Activar macros"** si se solicita.
 
+<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1750212455/habilitar_macro_mdqq2n.png" alt="Descripción de la imagen" width="300"/>
+
 ✅ ¡Listo! Ya puedes usar todas las funciones automatizadas del sistema.
 
 ## 🧩 Tecnologías utilizadas
